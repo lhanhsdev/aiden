@@ -80,13 +80,13 @@
     --_aider-color-chat: color-mix(in oklab,
             var(--background-base-lower),
             white 7.5%);
-    --radius-xxs: 4;
-    --radius-xs: 4;
-    --radius-sm: 4;
-    --radius-md: 4;
-    --radius-lg: 4;
-    --radius-xl: 4;
-    --radius-xxl: 4;
+    --radius-xxs: 16;
+    --radius-xs: 16;
+    --radius-sm: 16;
+    --radius-md: 16;
+    --radius-lg: 16;
+    --radius-xl: 16;
+    --radius-xxl: 16; /* what the fuck do these radiuses do */
 
     nav.guilds__5e434,
     .bg__960e4 {
