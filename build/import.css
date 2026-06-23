@@ -32,7 +32,7 @@
     --_aider-gradient: linear-gradient(to top,
             var(--background-base-lower),
             color-mix(in oklab, var(--background-base-lower), white 5%));
-    --font-primary: "Helvetica Neue", gg sans;
+    --font-primary: "Space Grotesk", gg sans;
     --radius-xxs: calc(var(--radius-md) / 6);
     --radius-xs: calc(var(--radius-md) / 3);
     --radius-sm: calc(var(--radius-md) / 1.5);
@@ -80,13 +80,13 @@
     --_aider-color-chat: color-mix(in oklab,
             var(--background-base-lower),
             white 7.5%);
-    --radius-xxs: 0;
-    --radius-xs: 0;
-    --radius-sm: 0;
-    --radius-md: 0;
-    --radius-lg: 0;
-    --radius-xl: 0;
-    --radius-xxl: 0;
+    --radius-xxs: 4;
+    --radius-xs: 4;
+    --radius-sm: 4;
+    --radius-md: 4;
+    --radius-lg: 4;
+    --radius-xl: 4;
+    --radius-xxl: 4;
 
     nav.guilds__5e434,
     .bg__960e4 {
